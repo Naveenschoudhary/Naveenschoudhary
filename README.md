@@ -1,70 +1,65 @@
-# 👨‍💻 Naveen Singh Choudhary
-Full Stack MERN Developer
+# Naveen Singh Choudhary
+👨‍💻 Full Stack MERN Developer
 📧 naveenschoudhary.work@gmail.com | ☎️ 09521520845
 🌍 Sikar, India | [Portfolio](https://naveenschoudhary.com) | [LinkedIn](https://linkedin.com/in/naveen-singh-choudhary-a5144b129) | [GitHub](https://github.com/Naveenschoudhary)
 
-## 🚀 Professional Summary
-Experienced Full Stack MERN Developer with a proven track record of crafting robust and scalable web applications. Proficient in both frontend and backend development, utilizing cutting-edge technologies to deliver efficient solutions. Adept at leading projects and collaborating with cross-functional teams to achieve project goals.
+## 🚀 Summary
+Experienced Full Stack MERN Developer with a knack for crafting efficient web applications. Proficient in React, Node.js, MongoDB, and more. Skilled in both frontend and backend development, with a collaborative and problem-solving mindset.
 
-## 💼 Work Experience
+## 💼 Work
 
-### Software Engineer
-**Big Picture Software Private Limited, India**
-12/2022 - Present | 🏠 Remote (Office location: Mumbai)
+### Software Engineer, Big Picture Software
+12/2022 - Present | 🏠 Remote
 
-- Contributed to a blockchain payment gateway solution provider for various cryptocurrencies.
-- Played a pivotal role in implementing major features during the MVP phase.
-- Collaborated with a dynamic service-based team to ensure seamless project execution.
+- Developed blockchain payment gateway solutions for cryptocurrencies.
+- Implemented pivotal features during the MVP phase.
 
-### Full Stack MERN Developer
-**Unisol Writing Solution, Jaipur**
-08/2021 - 11/2022
+### Full Stack MERN Developer, Unisol Writing Solution
+08/2021 - 11/2022 | Jaipur
 
-- 🧭 Led the development of "Tutorsolve," a marketplace web application connecting students and teachers.
-- 🌐 Responsible for complete frontend using React hooks and ES6 syntax.
-- ⚙️ Developed the backend using Node.js and MongoDB, integrated with socket.io for live communication.
-- 🔧 Leveraged technologies including Next.js, React.js, tailwindcss, Zoom SDK, MongoDB, and more.
+- Led "Tutorsolve," a marketplace connecting students and teachers.
+- Built React frontend, Node.js backend, and real-time communication with socket.io.
 
-### Full Stack MERN Developer
-**Next Apparel (Personal project), Jaipur**
-01/2021 - 08/2021
+### Full Stack MERN Developer, Next Apparel (Personal project)
+01/2021 - 08/2021 | Jaipur
 
-- 🚀 Directed the creation of "Next Apparel," a multi-role platform for customers, sellers, and administrators.
-- 💬 Implemented real-time chat functionality for seamless communication between sellers.
-- 🛠️ Utilized technologies such as React.js, Redux, SCSS, Node.js, socket.io, and MongoDB.
+- Created "Next Apparel," a multi-role platform for customers, sellers, and admins.
+- Designed real-time chat and utilized React, Redux, Node.js, MongoDB.
 
 ## 📚 Education
 
-**Bachelor of Technology**
-Poornima College of Engineering (Rajasthan Technical University)
+**Bachelor of Technology** | Poornima College of Engineering
 08/2016 - 08/2020 | 🌆 Jaipur
 
 ## 🛠️ Skills
-React.js | Next.js | Tailwind CSS | CSS5 | Node.js | MongoDB | Express.js | HTML5 | JavaScript | Socket.io | WordPress | GraphQL
 
-## 🌟 Personal Projects
+React | Node.js | MongoDB | Express | HTML/CSS | JavaScript | Socket.io | GraphQL
 
-### Portfolio Website (Blog + Personal Portfolio)
+## 🌟 Projects
+
+### Portfolio Website
 08/2022 - 09/2022
 
-- Created a personal portfolio website with an integrated blogging feature.
-- Employed Next.js for frontend and WordPress for backend, with tailwind CSS for styling.
+- Personal portfolio with integrated blogging.
+- Tech: Next.js, WordPress, Tailwind CSS.
 
 ### Billing Software (Mini ERP)
 06/2022 - 07/2022
 
-- Developed a billing software solution for small businesses to manage payments and customer communication.
-- Utilized React.js, MongoDB, Node.js, and Redux for state management.
+- Billing solution for small businesses.
+- Tech: React, Node.js, MongoDB, Redux.
 
 ## 🏆 Achievements
 
-- 🚀 Promoted to Senior Web Developer within 4 months at Big Picture Software (01/2022 - Present).
+- Promoted to Senior Web Developer within 4 months at Big Picture Software.
 
 ## 🌐 Languages
+
 - English: Professional Working Proficiency
 - Hindi: Full Professional Proficiency
 
 ## ⚡ Interests
+
 - Technology
 - Mobile
 
