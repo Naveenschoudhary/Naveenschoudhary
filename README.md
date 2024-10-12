@@ -1,6 +1,6 @@
 # Naveen Singh Choudhary
 👨‍💻 Software Developer
-📧 naveenschoudhary.work@gmail.com | ☎️ 09521520845
+📧 hello@naveenschoudhary.com | naveenschoudhary.work@gmail.com | ☎️ 09521520845
 🌍 Sikar, India | [Portfolio](https://naveenschoudhary.com) | [LinkedIn](https://linkedin.com/in/naveen-singh-choudhary-a5144b129) | [GitHub](https://github.com/Naveenschoudhary)
 
 ## 🚀 Summary
