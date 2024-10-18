@@ -10,7 +10,8 @@ Experienced Full Stack MERN Developer with a knack for crafting efficient web ap
 
 ### Software Engineer, Big Picture Software
 12/2022 - Present | 🏠 Remote
-
+- Developing an AI Journal Raga application using Vertex ai, python and Flask
+- Developed the AI Jounral raga application For AI based company directory using Vertex AI, python and Flask
 - Developed blockchain payment gateway solutions for cryptocurrencies.
 - Implemented pivotal features during the MVP phase.
 
