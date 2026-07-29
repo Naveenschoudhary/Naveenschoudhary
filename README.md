@@ -9,7 +9,7 @@
 <a href="https://naveenschoudhary.com">Portfolio</a> • 
 <a href="https://linkedin.com/in/naveen-singh-choudhary-a5144b129">LinkedIn</a> • 
 <a href="mailto:hello@naveenschoudhary.com">Email</a> • 
-<a href="https://www.arthalink.tech/">Artha Link</a>
+<a href="https://www.arthalink.tech/">Artha Link</a> • 
 <a href="https://www.memoflow.app/">Memoflow</a>
 </p>
 
